@@ -70,9 +70,9 @@ streamlit run ./app.py
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 - Fork the repository.
-- Create a new branch for your feature or bug fix: git checkout -b feature-name.
-- Make your changes and commit them: git commit -m 'Add new feature'.
-- Push to the branch: git push origin feature-name.
+- Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+- Make your changes and commit them: `git commit -m 'Add new feature'`.
+- Push to the branch: `git push origin feature-name`.
 - Submit a pull request detailing your changes.
 
 # Acknowledgements
