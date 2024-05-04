@@ -62,19 +62,19 @@ streamlit run ./app.py
 8. Access the application in your web browser at **http://localhost:8501**
 
 # Usage
-Upload a CSV file containing your dataset through the web interface.
-Generate plots based on your selected criteria.
-Interact with the plots to explore specific data points or trends.
+- Upload a CSV file containing your dataset through the web interface.
+- Generate plots based on your selected criteria.
+- Interact with the plots to explore specific data points or trends.
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request detailing your changes.
+- Fork the repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name.
+- Make your changes and commit them: git commit -m 'Add new feature'.
+- Push to the branch: git push origin feature-name.
+- Submit a pull request detailing your changes.
 
 # Acknowledgements
-Thank you to the creators of Python, Streamlit, and other open-source tools used in this project.
-Special thanks to the Llama 2 model developers for their contributions to data analysis and visualization.
+- Thank you to the creators of Python, Streamlit, and other open-source tools used in this project.
+- Special thanks to the Llama 2 model developers for their contributions to data analysis and visualization.
