@@ -31,6 +31,9 @@ Visit the AI at Meta website, accept our License, and submit the form. Once your
 
 To run the project locally, follow these steps:
 
+- I have taken the sample video by running it in my college System with Specigfications Intel i5 processor and Nvidia RTX 4080 GPU.
+- This will run only with these Specification to get faster inference.
+
 1. Install Ollama
 ```bash
 curl https://ollama.ai/install.sh
