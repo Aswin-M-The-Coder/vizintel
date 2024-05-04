@@ -60,6 +60,7 @@ pip install -r requirements.txt
 ```
 7. Run the Python app
 ```bash
+cd ollama/
 streamlit run ./app.py
 ```
 8. Access the application in your web browser at `http://localhost:8501`
