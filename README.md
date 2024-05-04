@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run ./app.py
 ```
-8. Access the application in your web browser at **http://localhost:8501**
+8. Access the application in your web browser at `http://localhost:8501`
 
 # Usage
 - Upload a CSV file containing your dataset through the web interface.
