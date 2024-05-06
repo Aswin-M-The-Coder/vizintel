@@ -12,6 +12,10 @@ Querying CSV and Plotting Graphs using LLM (Llama 2)
 
 ## Sample Demo
 
+https://github.com/Aswin-M-The-Coder/vizintel/assets/114298734/edbc131d-a0c1-4d64-be22-f68a0a244b0b
+
+
+
 ## Overview
 
 Vizual Intelligence uses Llama 2 for interacting with CSV files. The app generates statistical plots based on user prompts. You can ask any statistical question, and it will be answered with visual plots.
